@@ -1,0 +1,8 @@
+{
+  "name": "lab5",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "sfml"
+  ],
+  "builtin-baseline": "054bd01bec7f31492ec9ac063740cc984a0fe59e"
+}
